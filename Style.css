@@ -1,0 +1,19 @@
+/* h1{
+
+    /* color: rgb(0,255 ,25);    
+    background-color: gray;
+    
+/* } */ 
+h1{
+    color: #ffff00;
+    background-color: #314848;
+
+}
+p{
+    color: rgb(144, 0, 255);
+  background-color: rgb(165, 224, 64);
+}
+button{
+    color: gold;
+    background-color: rgb(107, 107, 74);
+}

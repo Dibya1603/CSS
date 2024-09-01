@@ -1,0 +1,42 @@
+#container{
+    height: 500px;
+    width: 60% ;
+    background-color: aqua;
+    margin: 10px auto;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+     /* flex-wrap: wrap; */
+   /* align-items: baseline ; */
+    align-content: flex-start;
+  
+}
+#org{
+    /* align-self: center; */
+    /* flex-basis: 50px; */
+    /* flex-grow: 1; */
+    /* flex-shrink: 1; */
+    flex: 2 2 100px;
+
+}
+#blu{
+    /* flex-grow: 2;
+    max-width: 300px; */
+    /* flex-shrink: 3; */
+    flex-grow: 2;
+}
+h1{
+     text-align: center;
+
+}
+
+#container  div{
+ height: 100px;
+ width: 50px;
+ color: azure;
+ text-align: center;
+ font-size: 1.5em;
+
+
+}

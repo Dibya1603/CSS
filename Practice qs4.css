@@ -1,0 +1,20 @@
+*{
+    font-family: 'Courier New', Courier, monospace;
+
+}
+h1{
+    color: #1b74e4;
+}
+#Searchbtm{
+    background-color: black;
+    color: white;
+
+}
+ 
+ .usebtn{
+    background-color: rgb(47, 52, 52) !important;
+ }
+ /* #login ,
+ #register{
+     background-color: aqua ;
+ }  */
